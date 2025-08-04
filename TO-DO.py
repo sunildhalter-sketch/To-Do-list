@@ -1,7 +1,5 @@
 import time
-global task
 tasks = []
-
 
 def add_task():
     while True:
@@ -89,3 +87,4 @@ while True:
         Print("Thanks for using our application!!")
         break
     
+
