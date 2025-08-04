@@ -24,7 +24,7 @@ cd your-repository
 
 Run the application:
 
-python todo.py
+python To-Do.py
 
 Usage
 The application will present you with a simple menu to choose from:
